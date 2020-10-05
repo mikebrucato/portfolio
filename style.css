@@ -1,0 +1,19 @@
+body {
+    background-color: bisque;
+    margin: 0 auto
+
+}
+
+.navbar-brand {
+    float: left;
+}
+.nav-link {
+    float: right;
+}
+
+.container1 {
+    background-color: white;
+    padding: 20px;
+
+}
+
