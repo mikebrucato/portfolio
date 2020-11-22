@@ -11,7 +11,7 @@ BOOTSTRAP [https://getbootstrap.com/]
 
 SCREENSHOT
 
-<img src="images/screen_shot.png" width="200px" height="200px" alt="screen shot">
+<img src="images/screen_shot.png" width="300px" height="200px" alt="screen shot">
 
 LINK TO DEPLOYED APPLICATION
 https://mikebrucato.github.io/portfolio/
