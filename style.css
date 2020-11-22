@@ -8,11 +8,13 @@ body {
     margin-top: 80px;
     margin-left: 90px;
     margin-right: 20px;
+    padding-bottom: 20px;
 }
 
-h1 {
+.links, h1, h3 {
     margin-left: 20px;
     margin-top: 10px;
+    padding-bottom: 10px;
 }
 img {
     margin-left: 20px;
@@ -50,5 +52,7 @@ p {
     list-style: none;
     padding-left: 10px;
   }
+
+  
 
   
